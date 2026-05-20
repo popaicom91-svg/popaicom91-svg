@@ -14,7 +14,7 @@ I’m a passionate Computer Engineering student and developer dedicated to build
 I have built a strong foundation in both frontend design and backend logic:
 
 * **Languages:** JavaScript (ES6+), PHP, Java, C
-* **Frontend:** HTML5, CSS3, Tailwind CSS, React.js
+* **Frontend:** HTML5, CSS, Tailwind CSS, React.js
 * **Tools & Concepts:** Responsive Web Design, State Management, API Integration, and Data Structure logic.
 
 ---
